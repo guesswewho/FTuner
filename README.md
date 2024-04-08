@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DietCode
 
 ## Installation
@@ -64,3 +65,6 @@ prefix that uses fewer number auto-scheduling trials. The resulting tensor
 programs will still be functionally correct but the performance can be
 sub-optimal.
 
+=======
+# FTuner
+>>>>>>> 53c21b4aa2af640149ccd20628083832cc2651a6
