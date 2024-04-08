@@ -1,0 +1,13 @@
+numpy
+scipy
+decorator
+attrs
+psutil
+typed_ast
+cython
+six
+xgboost
+tornado
+pytest
+synr
+cloudpickle
